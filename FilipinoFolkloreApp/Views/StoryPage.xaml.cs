@@ -1,9 +1,10 @@
-﻿using Microsoft.Maui.Controls;
-using System;
-using System.Threading.Tasks;
-using System.Threading;
-using FilipinoFolkloreApp.Services;
+﻿using FilipinoFolkloreApp.Services;
+using Microsoft.Maui;
+using Microsoft.Maui.Controls;
 using Plugin.Maui.Audio;
+using System;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace FilipinoFolkloreApp.Views;
 
@@ -25,6 +26,11 @@ public partial class StoryPage : ContentPage
         InitializeComponent();
         NavigationPage.SetHasNavigationBar(this, false);
         _storyId = storyId;
+        bool isCompleted = Preferences.Get(
+        $"StoryCompleted_{_storyId}", false);
+
+        PrevButton.IsVisible = isCompleted;
+        NextButton.IsVisible = isCompleted;
         NarratorAvatar.Source = AlamatContent.CurrentNarrator.Avatar;
         if (Application.Current is App app)
         {
@@ -39,8 +45,10 @@ public partial class StoryPage : ContentPage
 
         if (_idx >= story.Slides.Count)
         {
+            
             if (_isNavigatingToQuiz)
                 return;
+            Preferences.Set($"StoryCompleted_{_storyId}", true);
             _isNavigatingToQuiz = true;
             _cts?.Cancel();
             _player?.Stop();

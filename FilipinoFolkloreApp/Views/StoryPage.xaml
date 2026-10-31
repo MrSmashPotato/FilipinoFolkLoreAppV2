@@ -33,7 +33,7 @@
           Opacity="0"            
             InputTransparent="True"
             >
-            <Frame BackgroundColor="#66000000" HasShadow="False" Padding="14" CornerRadius="22">
+            <Frame BackgroundColor="#66000000" HasShadow="False" Padding="14" CornerRadius="22" x:Name="PrevButton">
                 <Image Source="elements/prev.png" HeightRequest="36">
                     <Image.GestureRecognizers>
                         <TapGestureRecognizer Tapped="OnPrev"/>
@@ -49,7 +49,7 @@
                 </Image>
             </Frame>
 
-            <Frame Grid.Column="2" BackgroundColor="#66000000" HasShadow="False" Padding="14" CornerRadius="22">
+            <Frame Grid.Column="2" BackgroundColor="#66000000" HasShadow="False" Padding="14" CornerRadius="22" x:Name="NextButton">
                 <Image Source="elements/next.png" HeightRequest="36">
                     <Image.GestureRecognizers>
                         <TapGestureRecognizer Tapped="OnNext"/>
