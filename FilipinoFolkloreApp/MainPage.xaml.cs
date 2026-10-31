@@ -59,7 +59,7 @@ namespace FilipinoFolkloreApp
             // Dynamically assign audio paths based on their sequential order
             for (int i = 0; i < _tutorialSteps.Length; i++)
             {
-                _tutorialSteps[i].AudioPath = $"tutorialaudio/mainpagetutorial/mainpagetutorial{i + 1}.mp3"; // Adjust path dynamically based on your assets
+                _tutorialSteps[i].AudioPath = $"tutorialaudio/mainpagetutorial/mainpagetutorial{i + 1}.m4a"; // Adjust path dynamically based on your assets
             }
             
             UpdateCharacterCounter();

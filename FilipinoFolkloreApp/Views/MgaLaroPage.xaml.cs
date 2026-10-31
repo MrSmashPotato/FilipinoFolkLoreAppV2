@@ -57,7 +57,7 @@ public partial class MgaLaroPage : ContentPage
 
         for (int i = 0; i < _tutorialSteps.Length; i++)
         {
-            _tutorialSteps[i].AudioPath = $"tutorialaudio/mgalaropagetutorial/mgalaropagetutorial{i + 1}.mp3";
+            _tutorialSteps[i].AudioPath = $"tutorialaudio/mgalaropagetutorial/mgalaropagetutorial{i + 1}.m4a";
         }
 
         LoadHUD();

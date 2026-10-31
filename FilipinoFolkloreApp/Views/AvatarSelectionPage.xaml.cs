@@ -60,7 +60,7 @@ namespace FilipinoFolkloreApp.Views
             // Dynamically assign audio paths based on their sequential order
             for (int i = 0; i < _tutorialSteps.Length; i++)
             {
-                _tutorialSteps[i].AudioPath = $"tutorialaudio/avatarselectionpagetutorial/avatarselectionpagetutorial{i + 1}.mp3"; // Adjust path dynamically if needed
+                _tutorialSteps[i].AudioPath = $"tutorialaudio/avatarselectionpagetutorial/avatarselectionpagetutorial{i + 1}.m4a"; // Adjust path dynamically if needed
             }
             
             AvatarGrid.ItemsSource = Avatars;
