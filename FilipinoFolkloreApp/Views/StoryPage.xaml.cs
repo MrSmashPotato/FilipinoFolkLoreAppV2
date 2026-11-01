@@ -378,7 +378,15 @@ public partial class StoryPage : ContentPage
 
             if (timings == null || timings.Count == 0)
                 return;
-
+            // Normalize newline markers in timestamp text.
+            foreach (var timing in timings)
+            {
+                timing.Text = timing.Text
+                    .Replace("\\n", " ")
+                    .Replace("\r", " ")
+                    .Replace("\n", " ")
+                    .Trim();
+            }
             // Keep the original subtitle if timestamps do not match its words.
             var matches = System.Text.RegularExpressions.Regex.Matches(
                 subtitle, @"\S+");

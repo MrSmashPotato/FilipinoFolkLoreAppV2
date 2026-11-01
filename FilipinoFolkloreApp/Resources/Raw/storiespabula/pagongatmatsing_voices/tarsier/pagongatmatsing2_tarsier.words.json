@@ -95,13 +95,18 @@
     "end": 9.44
   },
   {
-    "text": "Pagong.\\n“Kahit",
+    "text": "Pagong.",
     "start": 9.44,
-    "end": 10.8
+    "end": 9.84
+  },
+  {
+    "text": "“Kahit",
+    "start": 10.48,
+    "end": 10.82
   },
   {
     "text": "na,",
-    "start": 10.8,
+    "start": 10.82,
     "end": 11.02
   },
   {
@@ -122,11 +127,11 @@
   {
     "text": "kakain,”",
     "start": 12.28,
-    "end": 12.78
+    "end": 13.32
   },
   {
     "text": "pagmamatigas",
-    "start": 13.3,
+    "start": 13.32,
     "end": 14.18
   },
   {
@@ -135,18 +140,23 @@
     "end": 14.3
   },
   {
-    "text": "Matsing.\\nWalang",
+    "text": "Matsing.",
     "start": 14.3,
+    "end": 14.84
+  },
+  {
+    "text": "Walang",
+    "start": 15.56,
     "end": 15.86
   },
   {
     "text": "nagawa",
     "start": 15.86,
-    "end": 16.36
+    "end": 16.34
   },
   {
     "text": "ang",
-    "start": 16.36,
+    "start": 16.34,
     "end": 16.62
   },
   {
@@ -240,8 +250,13 @@
     "end": 24.26
   },
   {
-    "text": "Pagong.\\n“Pasensya",
+    "text": "Pagong.",
     "start": 24.26,
+    "end": 24.62
+  },
+  {
+    "text": "“Pasensya",
+    "start": 25.44,
     "end": 26.0
   },
   {
@@ -267,11 +282,11 @@
   {
     "text": "ang",
     "start": 28.24,
-    "end": 28.42
+    "end": 28.4
   },
   {
     "text": "kain",
-    "start": 28.42,
+    "start": 28.4,
     "end": 28.8
   },
   {
@@ -287,7 +302,7 @@
   {
     "text": "pansit",
     "start": 29.12,
-    "end": 29.9
+    "end": 29.92
   },
   {
     "text": "kaya",
@@ -311,13 +326,13 @@
   },
   {
     "text": "Sa",
-    "start": 32.12,
+    "start": 32.14,
     "end": 32.32
   },
   {
     "text": "susunod",
-    "start": 32.76,
-    "end": 32.86
+    "start": 32.32,
+    "end": 32.84
   },
   {
     "text": "ka",
@@ -337,7 +352,7 @@
   {
     "text": "kumain,”",
     "start": 33.32,
-    "end": 34.4
+    "end": 33.77
   },
   {
     "text": "paliwanag",
@@ -357,6 +372,6 @@
   {
     "text": "matsing.",
     "start": 35.6,
-    "end": 36.1
+    "end": 36.16
   }
 ]

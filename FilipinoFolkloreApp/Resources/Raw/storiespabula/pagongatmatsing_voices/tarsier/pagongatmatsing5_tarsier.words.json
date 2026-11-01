@@ -70,9 +70,14 @@
     "end": 6.26
   },
   {
-    "text": "natin.”\\n“Hahatiin?",
+    "text": "natin.”",
     "start": 6.26,
-    "end": 7.11
+    "end": 7.6
+  },
+  {
+    "text": "“Hahatiin?",
+    "start": 7.6,
+    "end": 8.42
   },
   {
     "text": "O",
@@ -121,7 +126,7 @@
   },
   {
     "text": "Ung",
-    "start": 12.42,
+    "start": 12.4,
     "end": 12.52
   },
   {
@@ -152,27 +157,32 @@
   {
     "text": "ha?”",
     "start": 14.14,
-    "end": 14.92
+    "end": 14.88
   },
   {
     "text": "nakangising",
-    "start": 14.92,
+    "start": 14.88,
     "end": 15.62
   },
   {
     "text": "sabi",
     "start": 15.62,
-    "end": 16.12
+    "end": 16.1
   },
   {
     "text": "ni",
-    "start": 16.12,
+    "start": 16.1,
     "end": 16.26
   },
   {
-    "text": "Matsing.\\n“Ha?",
+    "text": "Matsing.",
     "start": 16.26,
-    "end": 17.21
+    "end": 16.76
+  },
+  {
+    "text": "“Ha?",
+    "start": 17.08,
+    "end": 17.76
   },
   {
     "text": "sa",
@@ -197,27 +207,32 @@
   {
     "text": "bahagi?”",
     "start": 19.46,
-    "end": 20.6
+    "end": 20.04
   },
   {
     "text": "tanong",
-    "start": 20.78,
-    "end": 20.92
+    "start": 20.7,
+    "end": 20.94
   },
   {
     "text": "ni",
-    "start": 20.92,
-    "end": 21.14
+    "start": 20.94,
+    "end": 21.16
   },
   {
-    "text": "Pagong.\\n“Oo,",
-    "start": 21.14,
-    "end": 22.04
+    "text": "Pagong.",
+    "start": 21.16,
+    "end": 21.76
+  },
+  {
+    "text": "“Oo,",
+    "start": 22.36,
+    "end": 23.06
   },
   {
     "text": "wala",
     "start": 23.2,
-    "end": 23.38
+    "end": 23.36
   },
   {
     "text": "akong",
@@ -227,17 +242,17 @@
   {
     "text": "panahon",
     "start": 23.66,
-    "end": 24.18
+    "end": 24.16
   },
   {
     "text": "para",
-    "start": 24.18,
-    "end": 24.44
+    "start": 24.16,
+    "end": 24.42
   },
   {
     "text": "magpatubo",
-    "start": 24.44,
-    "end": 25.2
+    "start": 24.42,
+    "end": 25.22
   },
   {
     "text": "pa",
@@ -257,11 +272,11 @@
   {
     "text": "ng",
     "start": 25.94,
-    "end": 26.14
+    "end": 26.16
   },
   {
     "text": "saging",
-    "start": 26.14,
+    "start": 26.16,
     "end": 26.58
   },
   {
@@ -272,11 +287,11 @@
   {
     "text": "sa",
     "start": 27.26,
-    "end": 27.52
+    "end": 27.5
   },
   {
     "text": "akin",
-    "start": 27.52,
+    "start": 27.5,
     "end": 27.78
   },
   {
@@ -297,7 +312,7 @@
   {
     "text": "itaas",
     "start": 28.62,
-    "end": 29.42
+    "end": 29.4
   },
   {
     "text": "na",

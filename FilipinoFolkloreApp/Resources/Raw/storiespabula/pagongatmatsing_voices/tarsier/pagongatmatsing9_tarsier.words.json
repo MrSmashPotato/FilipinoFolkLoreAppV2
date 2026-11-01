@@ -55,8 +55,13 @@
     "end": 5.66
   },
   {
-    "text": "Matsing.\\n“Mukhang",
+    "text": "Matsing.",
     "start": 5.66,
+    "end": 6.62
+  },
+  {
+    "text": "“Mukhang",
+    "start": 6.66,
     "end": 7.02
   },
   {
@@ -72,11 +77,11 @@
   {
     "text": "ang",
     "start": 7.58,
-    "end": 7.66
+    "end": 7.64
   },
   {
     "text": "mga",
-    "start": 7.66,
+    "start": 7.64,
     "end": 7.94
   },
   {
@@ -91,17 +96,17 @@
   },
   {
     "text": "Halika,",
-    "start": 9.16,
+    "start": 9.12,
     "end": 10.0
   },
   {
     "text": "kunin",
     "start": 10.0,
-    "end": 10.24
+    "end": 10.26
   },
   {
     "text": "natin,”",
-    "start": 10.24,
+    "start": 10.26,
     "end": 10.76
   },
   {
@@ -110,8 +115,13 @@
     "end": 11.52
   },
   {
-    "text": "nito.\\n“Gusto",
+    "text": "nito.",
     "start": 11.52,
+    "end": 11.92
+  },
+  {
+    "text": "“Gusto",
+    "start": 12.52,
     "end": 12.8
   },
   {
@@ -167,7 +177,7 @@
   {
     "text": "ko",
     "start": 17.04,
-    "end": 17.26
+    "end": 17.28
   },
   {
     "text": "kayang",
@@ -190,13 +200,18 @@
     "end": 18.86
   },
   {
-    "text": "Pagong.\\n“Kung",
+    "text": "Pagong.",
     "start": 18.86,
-    "end": 19.96
+    "end": 19.22
+  },
+  {
+    "text": "“Kung",
+    "start": 19.82,
+    "end": 19.98
   },
   {
     "text": "gusto",
-    "start": 19.96,
+    "start": 19.98,
     "end": 20.3
   },
   {
@@ -206,17 +221,17 @@
   },
   {
     "text": "ako",
-    "start": 21.2,
+    "start": 21.22,
     "end": 21.38
   },
   {
     "text": "na",
     "start": 21.38,
-    "end": 21.62
+    "end": 21.64
   },
   {
     "text": "lang",
-    "start": 21.62,
+    "start": 21.64,
     "end": 21.76
   },
   {
@@ -272,16 +287,16 @@
   {
     "text": "bunga.",
     "start": 25.18,
-    "end": 25.56
+    "end": 25.88
   },
   {
     "text": "Basta’t",
-    "start": 26.16,
-    "end": 26.7
+    "start": 26.2,
+    "end": 26.72
   },
   {
     "text": "bigyan",
-    "start": 26.7,
+    "start": 26.72,
     "end": 27.0
   },
   {

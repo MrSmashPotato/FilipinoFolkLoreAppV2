@@ -55,8 +55,13 @@
     "end": 5.08
   },
   {
-    "text": "palay.\\nMahirap",
-    "start": 5.14,
+    "text": "palay.",
+    "start": 5.08,
+    "end": 5.46
+  },
+  {
+    "text": "Mahirap",
+    "start": 6.08,
     "end": 6.54
   },
   {
@@ -77,11 +82,11 @@
   {
     "text": "palay.",
     "start": 7.44,
-    "end": 8.28
+    "end": 8.32
   },
   {
     "text": "Mahirap",
-    "start": 8.32,
+    "start": 8.36,
     "end": 8.84
   },
   {
@@ -92,11 +97,11 @@
   {
     "text": "ang",
     "start": 8.98,
-    "end": 9.2
+    "end": 9.18
   },
   {
     "text": "pagbabayo",
-    "start": 9.2,
+    "start": 9.18,
     "end": 9.7
   },
   {
@@ -117,11 +122,11 @@
   {
     "text": "bigas.Minsan,",
     "start": 11.2,
-    "end": 12.45
+    "end": 12.4
   },
   {
     "text": "umalis",
-    "start": 12.96,
+    "start": 13.0,
     "end": 13.4
   },
   {
@@ -137,12 +142,12 @@
   {
     "text": "para",
     "start": 14.18,
-    "end": 14.42
+    "end": 14.44
   },
   {
     "text": "magtanim.",
-    "start": 14.42,
-    "end": 15.46
+    "start": 14.44,
+    "end": 15.44
   },
   {
     "text": "Mangunguha",

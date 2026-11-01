@@ -20,13 +20,18 @@
     "end": 2.2
   },
   {
-    "text": "Matsing.\\n“Haha,",
+    "text": "Matsing.",
     "start": 2.2,
-    "end": 3.5
+    "end": 2.68
+  },
+  {
+    "text": "“Haha,",
+    "start": 3.08,
+    "end": 4.1
   },
   {
     "text": "susunugin",
-    "start": 4.08,
+    "start": 4.1,
     "end": 4.78
   },
   {
@@ -80,8 +85,13 @@
     "end": 7.84
   },
   {
-    "text": "Matsing.\\n“Hindi",
+    "text": "Matsing.",
     "start": 7.84,
+    "end": 8.32
+  },
+  {
+    "text": "“Hindi",
+    "start": 8.74,
     "end": 9.12
   },
   {
@@ -102,11 +112,11 @@
   {
     "text": "Matsing?",
     "start": 10.02,
-    "end": 10.47
+    "end": 10.48
   },
   {
     "text": "Hindi",
-    "start": 11.18,
+    "start": 11.12,
     "end": 11.54
   },
   {
@@ -131,7 +141,7 @@
   },
   {
     "text": "Nakikita",
-    "start": 13.68,
+    "start": 13.66,
     "end": 14.26
   },
   {
@@ -142,11 +152,11 @@
   {
     "text": "ba",
     "start": 14.44,
-    "end": 14.64
+    "end": 14.62
   },
   {
     "text": "ang",
-    "start": 14.64,
+    "start": 14.62,
     "end": 14.84
   },
   {
@@ -157,11 +167,11 @@
   {
     "text": "at",
     "start": 15.34,
-    "end": 15.5
+    "end": 15.48
   },
   {
     "text": "matibay",
-    "start": 15.5,
+    "start": 15.48,
     "end": 15.98
   },
   {
@@ -177,11 +187,11 @@
   {
     "text": "Kahit",
     "start": 17.26,
-    "end": 17.48
+    "end": 17.46
   },
   {
     "text": "ang",
-    "start": 17.48,
+    "start": 17.46,
     "end": 17.7
   },
   {

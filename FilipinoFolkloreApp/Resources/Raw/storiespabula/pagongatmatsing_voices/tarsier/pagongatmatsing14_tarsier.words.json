@@ -105,14 +105,19 @@
     "end": 9.64
   },
   {
-    "text": "kakahuyan.\\n“Hoy",
+    "text": "kakahuyan.",
     "start": 9.64,
+    "end": 10.34
+  },
+  {
+    "text": "“Hoy",
+    "start": 11.06,
     "end": 11.32
   },
   {
     "text": "Pagong",
     "start": 11.32,
-    "end": 12.04
+    "end": 12.02
   },
   {
     "text": "humanda",
@@ -127,16 +132,16 @@
   {
     "text": "ngayon!”",
     "start": 13.0,
-    "end": 13.84
+    "end": 13.8
   },
   {
     "text": "galit",
-    "start": 13.86,
-    "end": 14.14
+    "start": 13.84,
+    "end": 14.16
   },
   {
     "text": "na",
-    "start": 14.14,
+    "start": 14.16,
     "end": 14.3
   },
   {
@@ -170,8 +175,13 @@
     "end": 16.72
   },
   {
-    "text": "pagong.\\n“Anong",
-    "start": 17.09,
+    "text": "pagong.",
+    "start": 16.72,
+    "end": 17.24
+  },
+  {
+    "text": "“Anong",
+    "start": 17.68,
     "end": 18.04
   },
   {

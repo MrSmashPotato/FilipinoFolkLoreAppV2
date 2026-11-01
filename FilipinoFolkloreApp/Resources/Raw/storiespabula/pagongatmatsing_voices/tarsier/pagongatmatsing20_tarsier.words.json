@@ -125,8 +125,13 @@
     "end": 12.56
   },
   {
-    "text": "Pagong.\\nMalungkot",
-    "start": 12.95,
+    "text": "Pagong.",
+    "start": 12.56,
+    "end": 12.92
+  },
+  {
+    "text": "Malungkot",
+    "start": 13.48,
     "end": 14.0
   },
   {
@@ -147,7 +152,7 @@
   {
     "text": "Matsing.",
     "start": 14.72,
-    "end": 15.26
+    "end": 15.66
   },
   {
     "text": "Naisip",

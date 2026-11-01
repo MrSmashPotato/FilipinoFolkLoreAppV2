@@ -185,13 +185,18 @@
     "end": 13.88
   },
   {
-    "text": "Pagong.\\n“Pagong,",
+    "text": "Pagong.",
     "start": 13.88,
-    "end": 14.68
+    "end": 14.28
+  },
+  {
+    "text": "“Pagong,",
+    "start": 14.98,
+    "end": 15.48
   },
   {
     "text": "tulungan",
-    "start": 15.94,
+    "start": 15.88,
     "end": 16.4
   },
   {
@@ -202,11 +207,11 @@
   {
     "text": "ako!",
     "start": 16.62,
-    "end": 17.28
+    "end": 16.88
   },
   {
     "text": "Alisin",
-    "start": 17.4,
+    "start": 17.42,
     "end": 17.78
   },
   {
@@ -277,7 +282,7 @@
   {
     "text": "malakas,”",
     "start": 22.82,
-    "end": 23.87
+    "end": 23.96
   },
   {
     "text": "pagmamakaawa",
@@ -290,13 +295,18 @@
     "end": 24.88
   },
   {
-    "text": "Matsing.\\n“Ayoko!",
+    "text": "Matsing.",
     "start": 24.88,
+    "end": 25.34
+  },
+  {
+    "text": "“Ayoko!",
+    "start": 25.88,
     "end": 27.08
   },
   {
     "text": "Napakasalbahe",
-    "start": 27.14,
+    "start": 27.08,
     "end": 28.06
   },
   {
@@ -327,12 +337,12 @@
   {
     "text": "akong",
     "start": 29.64,
-    "end": 30.0
+    "end": 30.02
   },
   {
     "text": "iniisahan!",
-    "start": 30.0,
-    "end": 30.7
+    "start": 30.02,
+    "end": 30.72
   },
   {
     "text": "Aalis",
@@ -371,7 +381,7 @@
   },
   {
     "text": "Sa",
-    "start": 35.34,
+    "start": 35.36,
     "end": 35.5
   },
   {

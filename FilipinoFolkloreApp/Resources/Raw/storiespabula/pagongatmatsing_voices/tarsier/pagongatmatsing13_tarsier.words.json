@@ -95,9 +95,14 @@
     "end": 9.9
   },
   {
-    "text": "saging.\\n“Arrrraayyy!",
+    "text": "saging.",
     "start": 9.9,
-    "end": 10.95
+    "end": 10.26
+  },
+  {
+    "text": "“Arrrraayyy!",
+    "start": 10.94,
+    "end": 11.62
   },
   {
     "text": "Aaaarayy!",
@@ -117,7 +122,7 @@
   {
     "text": "sa",
     "start": 14.06,
-    "end": 14.2
+    "end": 14.18
   },
   {
     "text": "mga",
@@ -131,8 +136,8 @@
   },
   {
     "text": "Arrrrrrrrruuyyyyyy!!!!”",
-    "start": 15.08,
-    "end": 15.78
+    "start": 15.1,
+    "end": 16.5
   },
   {
     "text": "daing",
@@ -150,33 +155,38 @@
     "end": 17.7
   },
   {
-    "text": "matsing.\\n“Humanda",
+    "text": "matsing.",
     "start": 17.7,
+    "end": 18.26
+  },
+  {
+    "text": "“Humanda",
+    "start": 18.88,
     "end": 19.4
   },
   {
     "text": "ka",
     "start": 19.4,
-    "end": 19.66
+    "end": 19.64
   },
   {
     "text": "bukas",
-    "start": 19.66,
+    "start": 19.64,
     "end": 20.0
   },
   {
     "text": "Pagong.",
     "start": 20.0,
-    "end": 20.9
+    "end": 20.6
   },
   {
     "text": "Gaganti",
-    "start": 21.1,
-    "end": 21.56
+    "start": 20.96,
+    "end": 21.54
   },
   {
     "text": "ako",
-    "start": 21.56,
+    "start": 21.54,
     "end": 21.88
   },
   {
@@ -217,11 +227,11 @@
   {
     "text": "sa",
     "start": 24.2,
-    "end": 24.46
+    "end": 24.44
   },
   {
     "text": "sarili.",
-    "start": 24.46,
+    "start": 24.44,
     "end": 24.84
   }
 ]

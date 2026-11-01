@@ -65,18 +65,23 @@
     "end": 6.2
   },
   {
-    "text": "asawa.\\nIsang",
+    "text": "asawa.",
     "start": 6.2,
-    "end": 7.66
+    "end": 6.6
+  },
+  {
+    "text": "Isang",
+    "start": 7.44,
+    "end": 7.68
   },
   {
     "text": "araw,",
-    "start": 7.66,
-    "end": 8.1
+    "start": 7.68,
+    "end": 8.68
   },
   {
     "text": "habang",
-    "start": 8.56,
+    "start": 8.78,
     "end": 8.92
   },
   {
@@ -127,21 +132,21 @@
   {
     "text": "kaniyang",
     "start": 11.72,
-    "end": 12.06
+    "end": 12.08
   },
   {
     "text": "asawa,",
-    "start": 12.06,
-    "end": 12.52
+    "start": 12.08,
+    "end": 12.83
   },
   {
     "text": "si",
     "start": 13.06,
-    "end": 13.18
+    "end": 13.2
   },
   {
     "text": "Luntian",
-    "start": 13.18,
+    "start": 13.2,
     "end": 13.74
   },
   {
@@ -177,16 +182,16 @@
   {
     "text": "bahagi",
     "start": 15.8,
-    "end": 16.2
+    "end": 16.18
   },
   {
     "text": "ng",
-    "start": 16.2,
-    "end": 16.38
+    "start": 16.18,
+    "end": 16.4
   },
   {
     "text": "kalawakan.",
-    "start": 16.38,
+    "start": 16.4,
     "end": 17.06
   }
 ]

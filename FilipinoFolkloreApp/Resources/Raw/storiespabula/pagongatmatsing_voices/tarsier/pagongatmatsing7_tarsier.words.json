@@ -170,13 +170,8 @@
     "end": 15.56
   },
   {
-    "text": "\\n",
-    "start": 16.12,
-    "end": 16.24
-  },
-  {
     "text": "Si",
-    "start": 16.24,
+    "start": 16.1,
     "end": 16.28
   },
   {
@@ -192,11 +187,11 @@
   {
     "text": "ay",
     "start": 17.14,
-    "end": 17.38
+    "end": 17.36
   },
   {
     "text": "natuwa",
-    "start": 17.38,
+    "start": 17.36,
     "end": 17.84
   },
   {
@@ -212,16 +207,16 @@
   {
     "text": "ang",
     "start": 18.54,
-    "end": 18.76
+    "end": 18.72
   },
   {
     "text": "umuusbong",
-    "start": 18.76,
-    "end": 19.52
+    "start": 18.72,
+    "end": 19.54
   },
   {
     "text": "na",
-    "start": 19.52,
+    "start": 19.54,
     "end": 19.76
   },
   {
@@ -277,11 +272,11 @@
   {
     "text": "hanggang",
     "start": 24.04,
-    "end": 24.52
+    "end": 24.5
   },
   {
     "text": "sa",
-    "start": 24.52,
+    "start": 24.5,
     "end": 24.72
   },
   {
@@ -301,17 +296,17 @@
   },
   {
     "text": "hitik",
-    "start": 26.22,
+    "start": 26.5,
     "end": 26.6
   },
   {
     "text": "na",
     "start": 26.6,
-    "end": 26.74
+    "end": 26.76
   },
   {
     "text": "hitik.",
-    "start": 26.74,
+    "start": 26.76,
     "end": 27.04
   }
 ]

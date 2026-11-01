@@ -65,18 +65,18 @@
     "end": 6.18
   },
   {
-    "text": "\\n“Matsing!",
+    "text": "“Matsing!",
     "start": 6.76,
-    "end": 7.34
+    "end": 7.32
   },
   {
     "text": "Matsing!",
-    "start": 7.64,
+    "start": 7.66,
     "end": 7.8
   },
   {
     "text": "tignan",
-    "start": 8.24,
+    "start": 8.2,
     "end": 8.58
   },
   {
@@ -86,12 +86,12 @@
   },
   {
     "text": "ang",
-    "start": 8.78,
-    "end": 8.88
+    "start": 8.74,
+    "end": 8.9
   },
   {
     "text": "puno",
-    "start": 8.88,
+    "start": 8.9,
     "end": 9.26
   },
   {
@@ -192,16 +192,16 @@
   {
     "text": "natin",
     "start": 17.6,
-    "end": 17.96
+    "end": 17.98
   },
   {
     "text": "ito,”",
-    "start": 17.96,
-    "end": 18.82
+    "start": 17.98,
+    "end": 18.78
   },
   {
     "text": "masayang",
-    "start": 18.82,
+    "start": 18.78,
     "end": 19.22
   },
   {
@@ -217,10 +217,10 @@
   {
     "text": "Pagong.",
     "start": 19.74,
-    "end": 20.08
+    "end": 20.12
   },
   {
-    "text": "\\n“Gusto",
+    "text": "“Gusto",
     "start": 20.68,
     "end": 20.98
   },
@@ -257,7 +257,7 @@
   {
     "text": "Pagong,",
     "start": 22.24,
-    "end": 22.68
+    "end": 22.79
   },
   {
     "text": "ibigay",
@@ -267,11 +267,11 @@
   {
     "text": "mo",
     "start": 23.66,
-    "end": 23.82
+    "end": 23.84
   },
   {
     "text": "na",
-    "start": 23.82,
+    "start": 23.84,
     "end": 23.96
   },
   {
@@ -282,16 +282,16 @@
   {
     "text": "sa",
     "start": 24.12,
-    "end": 24.36
+    "end": 24.38
   },
   {
     "text": "akin,”",
-    "start": 24.36,
+    "start": 24.38,
     "end": 24.8
   },
   {
     "text": "sabi",
-    "start": 25.38,
+    "start": 25.16,
     "end": 25.48
   },
   {
@@ -302,6 +302,6 @@
   {
     "text": "Matsing.",
     "start": 25.6,
-    "end": 25.9
+    "end": 26.12
   }
 ]

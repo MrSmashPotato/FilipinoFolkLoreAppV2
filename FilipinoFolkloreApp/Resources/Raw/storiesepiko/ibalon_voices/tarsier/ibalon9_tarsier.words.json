@@ -125,7 +125,7 @@
     "end": 11.19
   },
   {
-    "text": "\\nSi",
+    "text": "Si",
     "start": 11.92,
     "end": 12.14
   },
@@ -142,11 +142,11 @@
   {
     "text": "ay",
     "start": 12.98,
-    "end": 13.12
+    "end": 13.14
   },
   {
     "text": "nagturo",
-    "start": 13.12,
+    "start": 13.14,
     "end": 13.66
   },
   {
@@ -182,21 +182,21 @@
   {
     "text": "tela.",
     "start": 15.52,
-    "end": 15.8
+    "end": 16.37
   },
   {
     "text": "Si",
-    "start": 16.7,
-    "end": 16.84
+    "start": 16.76,
+    "end": 16.86
   },
   {
     "text": "Ginantong",
-    "start": 16.84,
-    "end": 17.42
+    "start": 16.86,
+    "end": 17.4
   },
   {
     "text": "ay",
-    "start": 17.42,
+    "start": 17.4,
     "end": 17.68
   },
   {
@@ -207,7 +207,7 @@
   {
     "text": "ng",
     "start": 18.24,
-    "end": 18.62
+    "end": 18.64
   },
   {
     "text": "kauna-unahang",
@@ -217,16 +217,16 @@
   {
     "text": "bangka,",
     "start": 19.7,
-    "end": 20.84
+    "end": 20.86
   },
   {
     "text": "ng",
-    "start": 20.84,
-    "end": 21.42
+    "start": 20.86,
+    "end": 21.04
   },
   {
     "text": "araro,",
-    "start": 21.42,
+    "start": 21.04,
     "end": 21.58
   },
   {
@@ -236,32 +236,32 @@
   },
   {
     "text": "at",
-    "start": 22.5,
-    "end": 22.6
+    "start": 22.4,
+    "end": 22.62
   },
   {
     "text": "iba",
-    "start": 22.6,
-    "end": 22.88
+    "start": 22.62,
+    "end": 22.9
   },
   {
     "text": "pang",
-    "start": 22.9,
+    "start": 22.92,
     "end": 23.2
   },
   {
     "text": "kasangkapan",
     "start": 23.2,
-    "end": 23.84
-  },
-  {
-    "text": "sa",
-    "start": 23.84,
     "end": 23.86
   },
   {
-    "text": "bahay.",
+    "text": "sa",
     "start": 23.86,
-    "end": 24.32
+    "end": 23.96
+  },
+  {
+    "text": "bahay.",
+    "start": 23.96,
+    "end": 24.26
   }
 ]

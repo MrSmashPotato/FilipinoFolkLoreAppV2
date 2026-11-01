@@ -60,9 +60,14 @@
     "end": 4.7
   },
   {
-    "text": "Pagong.\\n“Aba,",
+    "text": "Pagong.",
     "start": 4.7,
-    "end": 5.5
+    "end": 5.08
+  },
+  {
+    "text": "“Aba,",
+    "start": 5.36,
+    "end": 6.32
   },
   {
     "text": "nagkabunga",
@@ -132,11 +137,11 @@
   {
     "text": "natuyo,”",
     "start": 12.9,
-    "end": 13.9
+    "end": 13.92
   },
   {
     "text": "sabi",
-    "start": 13.98,
+    "start": 14.02,
     "end": 14.22
   },
   {
@@ -145,13 +150,18 @@
     "end": 14.32
   },
   {
-    "text": "Matsing.\\n“Inalagaan",
+    "text": "Matsing.",
     "start": 14.32,
-    "end": 16.52
+    "end": 14.88
+  },
+  {
+    "text": "“Inalagaan",
+    "start": 15.74,
+    "end": 16.5
   },
   {
     "text": "ko",
-    "start": 16.52,
+    "start": 16.5,
     "end": 16.64
   },
   {
@@ -176,12 +186,12 @@
   },
   {
     "text": "Sabi",
-    "start": 18.63,
-    "end": 18.88
+    "start": 18.56,
+    "end": 18.86
   },
   {
     "text": "ni",
-    "start": 18.88,
+    "start": 18.86,
     "end": 18.98
   },
   {
@@ -197,7 +207,7 @@
   {
     "text": "Kalabaw,",
     "start": 19.6,
-    "end": 19.85
+    "end": 19.9
   },
   {
     "text": "malaki",
