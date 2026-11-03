@@ -26,13 +26,13 @@ public partial class StoryPage : ContentPage
         InitializeComponent();
         NavigationPage.SetHasNavigationBar(this, false);
         _storyId = storyId;
-        //bool isCompleted = Preferences.Get(
-        //$"StoryCompleted_{_storyId}", false);
+        bool isCompleted = Preferences.Get(
+        $"StoryCompleted_{_storyId}", false);
 
-        //PrevButton.IsVisible = isCompleted;
-        //NextButton.IsVisible = isCompleted;
-        PrevButton.IsVisible = true;
-        NextButton.IsVisible = true;
+        PrevButton.IsVisible = isCompleted;
+        NextButton.IsVisible = isCompleted;
+        //PrevButton.IsVisible = true;
+        //NextButton.IsVisible = true;
         NarratorAvatar.Source = AlamatContent.CurrentNarrator.Avatar;
         if (Application.Current is App app)
         {
