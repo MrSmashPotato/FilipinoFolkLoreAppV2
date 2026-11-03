@@ -1,167 +1,167 @@
 [
   {
     "text": "Si",
-    "start": 0.2,
-    "end": 0.5
+    "start": 0.86,
+    "end": 1.0
   },
   {
     "text": "Aliman",
-    "start": 0.5,
-    "end": 0.86
+    "start": 1.0,
+    "end": 1.48
   },
   {
     "text": "ay",
-    "start": 0.86,
-    "end": 1.08
+    "start": 1.48,
+    "end": 1.84
   },
   {
     "text": "hindi",
-    "start": 1.08,
-    "end": 1.5
+    "start": 1.84,
+    "end": 2.04
   },
   {
     "text": "tulad",
-    "start": 1.5,
-    "end": 1.8
+    "start": 2.04,
+    "end": 2.34
   },
   {
     "text": "ng",
-    "start": 1.8,
-    "end": 1.98
+    "start": 2.34,
+    "end": 2.48
   },
   {
     "text": "kaniyang",
-    "start": 1.98,
-    "end": 2.4
+    "start": 2.48,
+    "end": 2.78
   },
   {
     "text": "mababait",
-    "start": 2.4,
-    "end": 2.98
+    "start": 2.78,
+    "end": 3.28
   },
   {
     "text": "na",
-    "start": 2.98,
-    "end": 3.16
+    "start": 3.28,
+    "end": 3.46
   },
   {
     "text": "magulang.",
-    "start": 3.16,
-    "end": 4.06
+    "start": 3.46,
+    "end": 4.21
   },
   {
     "text": "Lagi",
-    "start": 4.66,
-    "end": 4.82
+    "start": 4.6,
+    "end": 4.74
   },
   {
     "text": "siyang",
-    "start": 4.82,
-    "end": 5.02
+    "start": 4.74,
+    "end": 4.98
   },
   {
     "text": "may",
-    "start": 5.02,
-    "end": 5.24
+    "start": 4.98,
+    "end": 5.18
   },
   {
     "text": "ibang",
-    "start": 5.24,
-    "end": 5.58
+    "start": 5.18,
+    "end": 5.42
   },
   {
     "text": "bata",
-    "start": 5.58,
-    "end": 5.98
+    "start": 5.42,
+    "end": 5.78
   },
   {
     "text": "na",
-    "start": 5.98,
-    "end": 6.14
+    "start": 5.78,
+    "end": 5.92
   },
   {
     "text": "nasasaktan.",
-    "start": 6.14,
-    "end": 6.69
+    "start": 5.92,
+    "end": 6.52
   },
   {
     "text": "\"Mang",
-    "start": 7.84,
-    "end": 8.1
+    "start": 7.26,
+    "end": 7.4
   },
   {
     "text": "Mando,",
-    "start": 8.1,
-    "end": 9.28
+    "start": 7.4,
+    "end": 8.34
   },
   {
     "text": "Aling",
-    "start": 9.4,
-    "end": 9.66
+    "start": 8.34,
+    "end": 8.66
   },
   {
     "text": "Idang,",
-    "start": 9.66,
-    "end": 10.56
+    "start": 8.66,
+    "end": 8.9
   },
   {
     "text": "nakikipag-away",
-    "start": 10.87,
-    "end": 11.52
+    "start": 9.38,
+    "end": 10.06
   },
   {
     "text": "na",
-    "start": 11.52,
-    "end": 11.76
+    "start": 10.06,
+    "end": 10.24
   },
   {
     "text": "naman",
-    "start": 11.76,
-    "end": 12.0
+    "start": 10.24,
+    "end": 10.52
   },
   {
     "text": "po",
-    "start": 12.02,
-    "end": 12.22
+    "start": 10.54,
+    "end": 10.66
   },
   {
     "text": "si",
-    "start": 12.22,
-    "end": 12.48
+    "start": 10.66,
+    "end": 10.84
   },
   {
     "text": "Aliman\"",
-    "start": 12.48,
-    "end": 13.13
+    "start": 10.84,
+    "end": 11.24
   },
   {
     "text": "ang",
-    "start": 13.28,
-    "end": 13.44
+    "start": 11.68,
+    "end": 11.8
   },
   {
     "text": "narinig",
-    "start": 13.44,
-    "end": 13.98
+    "start": 11.8,
+    "end": 12.34
   },
   {
     "text": "nilang",
-    "start": 13.98,
-    "end": 14.28
+    "start": 12.34,
+    "end": 12.6
   },
   {
     "text": "sigaw",
-    "start": 14.28,
-    "end": 14.76
+    "start": 12.6,
+    "end": 13.18
   },
   {
     "text": "isang",
-    "start": 14.82,
-    "end": 15.1
+    "start": 13.22,
+    "end": 13.56
   },
   {
     "text": "umaga.",
-    "start": 15.1,
-    "end": 15.72
+    "start": 13.56,
+    "end": 13.82
   }
 ]

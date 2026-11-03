@@ -1,182 +1,182 @@
 [
   {
     "text": "Ang",
-    "start": 0.14,
-    "end": 0.36
+    "start": 0.0,
+    "end": 0.88
   },
   {
     "text": "kaniyang",
-    "start": 0.36,
-    "end": 0.78
+    "start": 0.9,
+    "end": 1.26
   },
   {
     "text": "mga",
-    "start": 0.78,
-    "end": 1.04
+    "start": 1.26,
+    "end": 1.4
   },
   {
     "text": "kamay",
-    "start": 1.04,
-    "end": 1.5
+    "start": 1.4,
+    "end": 1.76
   },
   {
     "text": "ay",
-    "start": 1.5,
-    "end": 1.68
+    "start": 1.76,
+    "end": 1.9
   },
   {
     "text": "lumaki.",
-    "start": 1.68,
-    "end": 2.73
+    "start": 1.9,
+    "end": 2.8
   },
   {
     "text": "Nagkaroon",
-    "start": 2.78,
-    "end": 3.36
+    "start": 3.12,
+    "end": 3.56
   },
   {
     "text": "ang",
-    "start": 3.36,
-    "end": 3.5
+    "start": 3.58,
+    "end": 3.8
   },
   {
     "text": "mga",
-    "start": 3.5,
-    "end": 3.76
+    "start": 3.8,
+    "end": 4.08
   },
   {
     "text": "ito",
-    "start": 3.76,
-    "end": 4.12
+    "start": 4.08,
+    "end": 4.46
   },
   {
     "text": "ng",
-    "start": 4.12,
-    "end": 4.32
+    "start": 4.46,
+    "end": 4.62
   },
   {
     "text": "sipit.",
-    "start": 4.32,
-    "end": 5.22
+    "start": 4.62,
+    "end": 4.82
   },
   {
     "text": "Ang",
-    "start": 5.42,
-    "end": 5.52
+    "start": 4.82,
+    "end": 5.68
   },
   {
     "text": "kaniyang",
-    "start": 5.52,
-    "end": 5.92
+    "start": 5.68,
+    "end": 6.12
   },
   {
     "text": "mga",
-    "start": 5.92,
-    "end": 6.18
+    "start": 6.12,
+    "end": 6.3
   },
   {
     "text": "binti",
-    "start": 6.18,
-    "end": 6.66
+    "start": 6.3,
+    "end": 6.68
   },
   {
     "text": "ay",
-    "start": 6.66,
-    "end": 6.86
+    "start": 6.68,
+    "end": 6.88
   },
   {
     "text": "dumami",
-    "start": 6.86,
-    "end": 7.3
+    "start": 6.88,
+    "end": 7.26
   },
   {
     "text": "at",
-    "start": 7.3,
-    "end": 7.54
+    "start": 7.26,
+    "end": 7.52
   },
   {
     "text": "lumiit.",
-    "start": 7.54,
-    "end": 8.52
+    "start": 7.52,
+    "end": 7.9
   },
   {
     "text": "Ang",
-    "start": 8.54,
-    "end": 8.66
+    "start": 8.86,
+    "end": 8.9
   },
   {
     "text": "mga",
-    "start": 8.66,
-    "end": 8.92
+    "start": 8.9,
+    "end": 9.08
   },
   {
     "text": "matang",
-    "start": 8.92,
-    "end": 9.26
+    "start": 9.08,
+    "end": 9.52
   },
   {
     "text": "madalas",
-    "start": 9.26,
-    "end": 9.78
+    "start": 9.52,
+    "end": 10.06
   },
   {
     "text": "niyang",
-    "start": 9.78,
-    "end": 9.98
+    "start": 10.06,
+    "end": 10.28
   },
   {
     "text": "idilat",
-    "start": 9.98,
-    "end": 10.58
+    "start": 10.28,
+    "end": 11.1
   },
   {
     "text": "ay",
-    "start": 10.58,
-    "end": 10.76
-  },
-  {
-    "text": "tuluyang",
-    "start": 10.76,
+    "start": 11.12,
     "end": 11.28
   },
   {
-    "text": "lumuwa.",
+    "text": "tuluyang",
     "start": 11.28,
-    "end": 11.84
+    "end": 11.74
+  },
+  {
+    "text": "lumuwa.",
+    "start": 11.74,
+    "end": 12.16
   },
   {
     "text": "Ang",
-    "start": 12.36,
-    "end": 12.5
-  },
-  {
-    "text": "kaniyang",
-    "start": 12.5,
+    "start": 12.86,
     "end": 12.92
   },
   {
-    "text": "buong",
+    "text": "kaniyang",
     "start": 12.92,
-    "end": 13.2
+    "end": 13.32
+  },
+  {
+    "text": "buong",
+    "start": 13.32,
+    "end": 13.58
   },
   {
     "text": "katawan",
-    "start": 13.2,
-    "end": 13.82
-  },
-  {
-    "text": "ay",
-    "start": 13.82,
-    "end": 14.0
-  },
-  {
-    "text": "naging",
-    "start": 14.0,
+    "start": 13.58,
     "end": 14.26
   },
   {
+    "text": "ay",
+    "start": 14.42,
+    "end": 14.62
+  },
+  {
+    "text": "naging",
+    "start": 14.62,
+    "end": 14.92
+  },
+  {
     "text": "matigas.",
-    "start": 14.26,
-    "end": 14.9
+    "start": 14.92,
+    "end": 15.67
   }
 ]

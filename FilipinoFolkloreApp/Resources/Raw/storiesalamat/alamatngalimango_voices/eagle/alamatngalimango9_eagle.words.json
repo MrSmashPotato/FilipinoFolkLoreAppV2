@@ -1,167 +1,167 @@
 [
   {
     "text": "Malakas",
-    "start": 0.1,
-    "end": 0.72
+    "start": 0.76,
+    "end": 0.96
   },
   {
     "text": "ang",
-    "start": 0.72,
-    "end": 0.9
+    "start": 0.96,
+    "end": 1.08
   },
   {
     "text": "sigaw",
-    "start": 0.9,
-    "end": 1.24
+    "start": 1.08,
+    "end": 1.3
   },
   {
     "text": "nito",
-    "start": 1.24,
-    "end": 1.62
+    "start": 1.3,
+    "end": 1.78
   },
   {
     "text": "na",
-    "start": 1.62,
-    "end": 1.94
+    "start": 1.86,
+    "end": 1.96
   },
   {
     "text": "\"Si",
-    "start": 2.14,
-    "end": 2.44
+    "start": 1.96,
+    "end": 2.12
   },
   {
     "text": "Aliman,",
-    "start": 2.44,
-    "end": 3.29
+    "start": 2.12,
+    "end": 2.62
   },
   {
     "text": "nagbago!",
-    "start": 3.84,
-    "end": 4.4
+    "start": 2.62,
+    "end": 3.08
   },
   {
     "text": "Si",
-    "start": 4.82,
-    "end": 5.1
+    "start": 3.48,
+    "end": 3.52
   },
   {
     "text": "Aliman,",
-    "start": 5.1,
-    "end": 6.24
+    "start": 3.52,
+    "end": 4.02
   },
   {
     "text": "nagbago!\"",
-    "start": 6.59,
-    "end": 7.54
+    "start": 4.36,
+    "end": 5.06
   },
   {
     "text": "Hanggang",
-    "start": 7.56,
-    "end": 7.9
+    "start": 5.1,
+    "end": 5.26
   },
   {
     "text": "sa",
-    "start": 7.9,
-    "end": 8.1
+    "start": 5.26,
+    "end": 5.42
   },
   {
     "text": "nasabi",
-    "start": 8.1,
-    "end": 8.58
+    "start": 5.48,
+    "end": 5.76
   },
   {
     "text": "na",
-    "start": 8.58,
-    "end": 8.82
+    "start": 5.76,
+    "end": 5.96
   },
   {
     "text": "lamang",
-    "start": 8.82,
-    "end": 9.2
+    "start": 5.96,
+    "end": 6.24
   },
   {
     "text": "ang",
-    "start": 9.2,
-    "end": 9.4
+    "start": 6.24,
+    "end": 6.54
   },
   {
     "text": "\"Aliman...",
-    "start": 9.4,
-    "end": 10.35
+    "start": 6.54,
+    "end": 6.64
   },
   {
     "text": "go!",
-    "start": 11.08,
-    "end": 11.8
+    "start": 7.8,
+    "end": 8.02
   },
   {
     "text": "Alimango!\"",
-    "start": 11.9,
-    "end": 12.94
+    "start": 8.28,
+    "end": 8.64
   },
   {
     "text": "dahil",
-    "start": 13.08,
-    "end": 13.38
+    "start": 9.22,
+    "end": 9.36
   },
   {
     "text": "sa",
-    "start": 13.38,
-    "end": 13.54
+    "start": 9.36,
+    "end": 9.54
   },
   {
     "text": "sobrang",
-    "start": 13.54,
-    "end": 14.04
+    "start": 9.54,
+    "end": 9.94
   },
   {
     "text": "pagkagulat",
-    "start": 14.04,
-    "end": 14.82
+    "start": 9.94,
+    "end": 10.44
   },
   {
     "text": "nito.",
-    "start": 14.82,
-    "end": 15.28
+    "start": 10.44,
+    "end": 11.28
   },
   {
     "text": "Sa",
-    "start": 15.86,
-    "end": 16.0
+    "start": 11.32,
+    "end": 11.44
   },
   {
     "text": "ngayon,",
-    "start": 16.0,
-    "end": 16.56
+    "start": 11.44,
+    "end": 12.12
   },
   {
     "text": "si",
-    "start": 17.0,
-    "end": 17.22
+    "start": 12.12,
+    "end": 12.22
   },
   {
     "text": "Aliman",
-    "start": 17.22,
-    "end": 17.64
+    "start": 12.22,
+    "end": 12.68
   },
   {
     "text": "ay",
-    "start": 17.64,
-    "end": 17.84
+    "start": 12.76,
+    "end": 12.86
   },
   {
     "text": "tinatawag",
-    "start": 17.84,
-    "end": 18.52
+    "start": 12.86,
+    "end": 13.34
   },
   {
     "text": "nang",
-    "start": 18.52,
-    "end": 18.72
+    "start": 13.34,
+    "end": 13.54
   },
   {
     "text": "alimango.",
-    "start": 18.72,
-    "end": 19.44
+    "start": 13.54,
+    "end": 14.08
   }
 ]

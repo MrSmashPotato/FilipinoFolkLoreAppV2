@@ -1,67 +1,67 @@
 [
   {
     "text": "Nadatnan",
-    "start": 0.16,
-    "end": 0.74
+    "start": 0.68,
+    "end": 1.2
   },
   {
     "text": "nila",
-    "start": 0.74,
-    "end": 1.02
+    "start": 1.2,
+    "end": 1.58
   },
   {
     "text": "ang",
-    "start": 1.02,
-    "end": 1.24
+    "start": 1.6,
+    "end": 1.8
   },
   {
     "text": "batang",
-    "start": 1.24,
-    "end": 1.72
+    "start": 1.8,
+    "end": 2.5
   },
   {
     "text": "pilay",
-    "start": 1.72,
-    "end": 2.08
+    "start": 2.62,
+    "end": 3.02
   },
   {
     "text": "na",
-    "start": 2.08,
-    "end": 2.26
-  },
-  {
-    "text": "umiiyak.",
-    "start": 2.26,
+    "start": 3.02,
     "end": 3.16
   },
   {
+    "text": "umiiyak.",
+    "start": 3.16,
+    "end": 3.62
+  },
+  {
     "text": "Nagdurugo",
-    "start": 3.46,
-    "end": 4.12
+    "start": 4.4,
+    "end": 4.78
   },
   {
     "text": "ang",
-    "start": 4.12,
-    "end": 4.36
+    "start": 4.78,
+    "end": 4.96
   },
   {
     "text": "pisngi",
-    "start": 4.36,
-    "end": 4.8
+    "start": 5.0,
+    "end": 5.36
   },
   {
     "text": "nito",
-    "start": 4.8,
-    "end": 5.08
+    "start": 5.36,
+    "end": 5.76
   },
   {
     "text": "dahil",
-    "start": 5.08,
-    "end": 5.48
+    "start": 5.82,
+    "end": 6.16
   },
   {
     "text": "nasugatan.",
-    "start": 5.48,
-    "end": 6.44
+    "start": 6.16,
+    "end": 6.56
   }
 ]

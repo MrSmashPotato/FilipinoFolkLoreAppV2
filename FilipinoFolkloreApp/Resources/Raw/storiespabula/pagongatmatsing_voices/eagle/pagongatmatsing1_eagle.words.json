@@ -1,0 +1,357 @@
+[
+  {
+    "text": "Sina",
+    "start": 0.92,
+    "end": 1.2
+  },
+  {
+    "text": "Pagong",
+    "start": 1.22,
+    "end": 1.56
+  },
+  {
+    "text": "at",
+    "start": 1.56,
+    "end": 1.74
+  },
+  {
+    "text": "Matsing",
+    "start": 1.74,
+    "end": 2.14
+  },
+  {
+    "text": "ay",
+    "start": 2.3,
+    "end": 2.48
+  },
+  {
+    "text": "matalik",
+    "start": 2.48,
+    "end": 2.94
+  },
+  {
+    "text": "na",
+    "start": 2.94,
+    "end": 3.06
+  },
+  {
+    "text": "magkaibigan.",
+    "start": 3.06,
+    "end": 3.91
+  },
+  {
+    "text": "Mabait",
+    "start": 4.5,
+    "end": 4.84
+  },
+  {
+    "text": "at",
+    "start": 4.84,
+    "end": 5.02
+  },
+  {
+    "text": "matulungin",
+    "start": 5.12,
+    "end": 5.54
+  },
+  {
+    "text": "si",
+    "start": 5.54,
+    "end": 5.68
+  },
+  {
+    "text": "Pagong,",
+    "start": 5.68,
+    "end": 6.53
+  },
+  {
+    "text": "subalit",
+    "start": 6.76,
+    "end": 7.06
+  },
+  {
+    "text": "si",
+    "start": 7.1,
+    "end": 7.22
+  },
+  {
+    "text": "Matsing",
+    "start": 7.22,
+    "end": 7.72
+  },
+  {
+    "text": "ay",
+    "start": 7.72,
+    "end": 7.96
+  },
+  {
+    "text": "tuso",
+    "start": 7.98,
+    "end": 8.38
+  },
+  {
+    "text": "at",
+    "start": 8.42,
+    "end": 8.52
+  },
+  {
+    "text": "palabiro.",
+    "start": 8.52,
+    "end": 8.9
+  },
+  {
+    "text": "Isang",
+    "start": 9.76,
+    "end": 10.0
+  },
+  {
+    "text": "araw",
+    "start": 10.0,
+    "end": 10.6
+  },
+  {
+    "text": "sila",
+    "start": 10.8,
+    "end": 11.2
+  },
+  {
+    "text": "ay",
+    "start": 11.2,
+    "end": 11.34
+  },
+  {
+    "text": "binigyan",
+    "start": 11.34,
+    "end": 11.72
+  },
+  {
+    "text": "ni",
+    "start": 11.72,
+    "end": 11.92
+  },
+  {
+    "text": "Aling",
+    "start": 11.92,
+    "end": 12.28
+  },
+  {
+    "text": "Muning",
+    "start": 12.28,
+    "end": 12.7
+  },
+  {
+    "text": "ng",
+    "start": 12.9,
+    "end": 13.0
+  },
+  {
+    "text": "isang",
+    "start": 13.0,
+    "end": 13.32
+  },
+  {
+    "text": "supot",
+    "start": 13.32,
+    "end": 13.68
+  },
+  {
+    "text": "ng",
+    "start": 13.68,
+    "end": 13.84
+  },
+  {
+    "text": "pansit.",
+    "start": 13.84,
+    "end": 14.18
+  },
+  {
+    "text": "“Halika",
+    "start": 14.78,
+    "end": 15.16
+  },
+  {
+    "text": "Matsing,",
+    "start": 15.16,
+    "end": 15.78
+  },
+  {
+    "text": "kainin",
+    "start": 16.18,
+    "end": 16.64
+  },
+  {
+    "text": "natin",
+    "start": 16.64,
+    "end": 16.86
+  },
+  {
+    "text": "ang",
+    "start": 16.86,
+    "end": 17.0
+  },
+  {
+    "text": "pansit”,",
+    "start": 17.0,
+    "end": 17.46
+  },
+  {
+    "text": "nag-aayang",
+    "start": 17.96,
+    "end": 18.58
+  },
+  {
+    "text": "sabi",
+    "start": 18.78,
+    "end": 18.82
+  },
+  {
+    "text": "ni",
+    "start": 18.82,
+    "end": 18.96
+  },
+  {
+    "text": "Pagong.",
+    "start": 18.96,
+    "end": 19.34
+  },
+  {
+    "text": "“Naku",
+    "start": 19.9,
+    "end": 20.38
+  },
+  {
+    "text": "baka",
+    "start": 20.46,
+    "end": 20.68
+  },
+  {
+    "text": "panis",
+    "start": 20.68,
+    "end": 20.98
+  },
+  {
+    "text": "na",
+    "start": 21.0,
+    "end": 21.2
+  },
+  {
+    "text": "yan”",
+    "start": 21.2,
+    "end": 21.5
+  },
+  {
+    "text": "sabi",
+    "start": 22.12,
+    "end": 22.42
+  },
+  {
+    "text": "ni",
+    "start": 22.42,
+    "end": 22.52
+  },
+  {
+    "text": "Matsing.",
+    "start": 22.52,
+    "end": 23.04
+  },
+  {
+    "text": "“Ang",
+    "start": 23.7,
+    "end": 23.84
+  },
+  {
+    "text": "mabuti",
+    "start": 23.84,
+    "end": 24.2
+  },
+  {
+    "text": "pa,",
+    "start": 24.2,
+    "end": 24.4
+  },
+  {
+    "text": "hayaan",
+    "start": 24.8,
+    "end": 25.34
+  },
+  {
+    "text": "mo",
+    "start": 25.34,
+    "end": 25.48
+  },
+  {
+    "text": "muna",
+    "start": 25.48,
+    "end": 25.7
+  },
+  {
+    "text": "akong",
+    "start": 25.7,
+    "end": 25.98
+  },
+  {
+    "text": "kumain",
+    "start": 26.0,
+    "end": 26.46
+  },
+  {
+    "text": "n’yan",
+    "start": 26.46,
+    "end": 27.02
+  },
+  {
+    "text": "para",
+    "start": 27.1,
+    "end": 27.3
+  },
+  {
+    "text": "masiguro",
+    "start": 27.3,
+    "end": 27.88
+  },
+  {
+    "text": "natin",
+    "start": 27.88,
+    "end": 28.46
+  },
+  {
+    "text": "na",
+    "start": 28.48,
+    "end": 28.6
+  },
+  {
+    "text": "walang",
+    "start": 28.6,
+    "end": 28.94
+  },
+  {
+    "text": "lason",
+    "start": 28.94,
+    "end": 29.22
+  },
+  {
+    "text": "ang",
+    "start": 29.22,
+    "end": 29.42
+  },
+  {
+    "text": "pagkain,”",
+    "start": 29.42,
+    "end": 29.82
+  },
+  {
+    "text": "dagdag",
+    "start": 30.38,
+    "end": 30.78
+  },
+  {
+    "text": "pa",
+    "start": 30.78,
+    "end": 30.94
+  },
+  {
+    "text": "nito.",
+    "start": 30.94,
+    "end": 31.3
+  }
+]

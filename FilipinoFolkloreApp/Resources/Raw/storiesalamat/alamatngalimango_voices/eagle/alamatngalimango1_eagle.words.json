@@ -1,92 +1,92 @@
 [
   {
     "text": "Sa",
-    "start": 0.2,
-    "end": 0.46
+    "start": 0.6,
+    "end": 0.74
   },
   {
     "text": "malayong",
-    "start": 0.46,
-    "end": 0.96
+    "start": 0.74,
+    "end": 1.18
   },
   {
     "text": "pamayanan",
-    "start": 0.96,
-    "end": 1.74
+    "start": 2.12,
+    "end": 2.22
   },
   {
     "text": "nakatira",
-    "start": 1.74,
-    "end": 2.26
+    "start": 2.22,
+    "end": 2.72
   },
   {
     "text": "ang",
-    "start": 2.26,
-    "end": 2.44
+    "start": 2.72,
+    "end": 2.9
   },
   {
     "text": "pamilya",
-    "start": 2.44,
-    "end": 2.96
+    "start": 2.9,
+    "end": 3.3
   },
   {
     "text": "ni",
-    "start": 2.96,
-    "end": 3.18
+    "start": 3.3,
+    "end": 3.42
   },
   {
     "text": "Aliman.",
-    "start": 3.18,
-    "end": 3.82
+    "start": 3.42,
+    "end": 4.42
   },
   {
     "text": "Siya",
-    "start": 4.4,
-    "end": 4.74
+    "start": 4.66,
+    "end": 4.98
   },
   {
     "text": "ay",
-    "start": 4.74,
-    "end": 4.9
+    "start": 5.02,
+    "end": 5.14
   },
   {
     "text": "nag-iisang",
-    "start": 4.9,
-    "end": 5.6
+    "start": 5.14,
+    "end": 5.68
   },
   {
     "text": "anak",
-    "start": 5.6,
-    "end": 5.88
+    "start": 5.68,
+    "end": 5.98
   },
   {
     "text": "nina",
-    "start": 5.88,
-    "end": 6.28
+    "start": 6.02,
+    "end": 6.32
   },
   {
     "text": "Mang",
-    "start": 6.28,
+    "start": 6.32,
     "end": 6.46
   },
   {
     "text": "Mando",
     "start": 6.46,
-    "end": 6.96
+    "end": 6.92
   },
   {
     "text": "at",
-    "start": 6.96,
-    "end": 7.22
+    "start": 7.34,
+    "end": 7.44
   },
   {
     "text": "Aling",
-    "start": 7.22,
-    "end": 7.66
+    "start": 7.44,
+    "end": 7.8
   },
   {
     "text": "Idang.",
-    "start": 7.66,
-    "end": 8.14
+    "start": 7.8,
+    "end": 7.9
   }
 ]

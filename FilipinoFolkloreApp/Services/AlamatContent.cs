@@ -108,7 +108,7 @@ namespace FilipinoFolkloreApp.Services
                     {
                         ["tarsier"] = $"{backgroundPrefix}_voices/tarsier/{storyName}{i + 1}_tarsier.m4a",
                         ["eagle"] = $"{backgroundPrefix}_voices/eagle/{storyName}{i + 1}_eagle.mp3",
-                        ["monkey"] = $"{backgroundPrefix}_voices/monkey/{storyName}{i + 1}_monkey.mp3",
+                        ["monkey"] = $"{backgroundPrefix}_voices/monkey/{storyName}{i + 1}_monkey.m4a",
                     }
                 });
             }
